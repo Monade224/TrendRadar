@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T14:56:51.032784+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-07-03T17:52:33.835055+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -103,11 +103,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 17时52分]"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时17分 ~ 14时56分]"
+          "time_info": "[14时56分 ~ 17时52分]"
         },
         {
           "title": "美国总统特朗普：美国必须在人工智能领域领先。",
@@ -363,17 +376,6 @@
           "time_info": "06时05分"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
           "title": "美国官员称：面向新生儿的“特朗普账户”将接受股票捐赠",
           "url": "https://wallstreetcn.com/livenews/3128200",
           "source": "华尔街见闻-快讯",
@@ -490,7 +492,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -549,6 +551,18 @@
           "time_info": "[04时58分 ~ 06时05分]"
         },
         {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 17时52分]"
+        },
+        {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
           "url": "https://wallstreetcn.com/livenews/3128212",
           "source": "华尔街见闻-快讯",
@@ -561,26 +575,15 @@
           "time_info": "[04时58分 ~ 06时05分]"
         },
         {
-          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
-          "url": "https://www.cls.cn/detail/2415987",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 14时56分]"
-        },
-        {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 17时52分]"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -718,7 +721,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "逻辑切换，伊朗原油从“能不能出来”到“出来之后有没有人接”",
@@ -738,9 +741,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "哈梅内伊遗体告别仪式在伊朗举行",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%BE%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 17时52分]"
         },
         {
           "title": "伊朗代理防长：将对违反协议的行为作出回应",
@@ -749,7 +764,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -787,15 +802,26 @@
           "time_info": "03时14分"
         },
         {
-          "title": "哈梅内伊遗体告别仪式在伊朗举行",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%BE%E8%A1%8C",
+          "title": "伊朗革命卫队总司令现身",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E6%80%BB%E5%8F%B8%E4%BB%A4%E7%8E%B0%E8%BA%AB",
           "source": "百度热搜",
           "ranks": [
-            13
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "17时52分"
+        },
+        {
+          "title": "伊朗德黑兰空域将于6日全面关闭",
+          "url": "https://flash.jin10.com/detail/20260703174320511800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
@@ -815,7 +841,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
