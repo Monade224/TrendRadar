@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T10:00:24.754705+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-07-17T13:16:23.929457+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗革命卫队：打击叙利亚美军指挥中心 造成大量美军人员死亡",
+          "url": "https://wallstreetcn.com/livenews/3135479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美军对阿巴斯港居民区发动袭击，目前已造成至少7人受伤。",
@@ -58,7 +69,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
         },
@@ -138,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗革命卫队称打击叙利亚美军指挥中心",
+          "url": "https://wallstreetcn.com/livenews/3135475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
@@ -344,6 +366,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2428979",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "白宫称伊朗仍在与美国对话",
           "url": "https://flash.jin10.com/detail/20260717022111991800",
           "source": "金十数据",
@@ -364,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗IRIB新闻网公布伊朗遭袭桥梁的照片。",
+          "url": "https://flash.jin10.com/detail/20260717124237582800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "美国周四袭击了伊朗境内多座桥梁。（华尔街日报）",
@@ -408,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "伊朗革命卫队表示，只要美军的袭击持续，就不会有任何石油或天然气通过霍尔木兹海峡出口。",
+          "url": "https://wallstreetcn.com/livenews/3135465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "伊朗革命卫队：只有美国不再存在于该地区，霍尔木兹海峡的安全才能得到全面保障。",
@@ -471,7 +526,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
         },
@@ -504,7 +559,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
         },
@@ -540,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "伊朗革命卫队称在叙利亚击毙“大量”美军",
+          "url": "https://flash.jin10.com/detail/20260717123232456800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "据伊朗媒体Fars News：约旦外交部长表示，美国在约旦没有军事基地，但有美军人员驻扎，这是约旦与华盛顿军事合作的一部分。",
@@ -608,6 +674,17 @@
           "time_info": "07时55分"
         },
         {
+          "title": "据伊朗Press TV：伊朗革命卫队对位于叙利亚坦夫地区的美军特种作战指挥中心发动了突然袭击，此次袭击摧毁了一套雷达系统及数架特种作战直升机，并造成大量美军人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260717122506974800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "伊朗方面否认有美籍人员从该国监狱获释",
           "url": "https://wallstreetcn.com/livenews/3135308",
           "source": "华尔街见闻-快讯",
@@ -633,7 +710,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -666,8 +743,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
@@ -676,7 +753,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
         },
@@ -719,11 +796,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普：国会必须通过选民身份识别法案。",
@@ -732,9 +810,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
+        },
+        {
+          "title": "白宫官宣特朗普将出席世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7663253128728657971/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -776,7 +865,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
         },
@@ -820,7 +909,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
         },
@@ -879,11 +968,12 @@
           "url": "https://www.cls.cn/detail/2428944",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 13时16分]"
         },
         {
           "title": "谷歌A跌幅扩大至2.7%。",
@@ -1034,7 +1124,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -1059,6 +1149,17 @@
           "time_info": "[01时07分 ~ 05时59分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 13时16分]"
+        },
+        {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
@@ -1071,15 +1172,17 @@
           "time_info": "[01时07分 ~ 10时00分]"
         },
         {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
+          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
+          "url": "https://www.cls.cn/detail/2428956",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 10时00分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 13时16分]"
         },
         {
           "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
@@ -1093,16 +1196,16 @@
           "time_info": "05时59分"
         },
         {
-          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
-          "url": "https://www.cls.cn/detail/2428956",
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
           "source": "财联社热门",
           "ranks": [
-            5,
-            6
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时55分 ~ 10时00分]"
+          "time_info": "[09时59分 ~ 13时16分]"
         },
         {
           "title": "美股芯片股深夜大跌",
@@ -1115,17 +1218,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时55分 ~ 10时00分]"
-        },
-        {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -1172,6 +1264,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "美股牛市还能靠谁抬轿",
+          "url": "https://www.toutiao.com/trending/7663304146560224794/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
           "url": "https://wallstreetcn.com/livenews/3135268",
           "source": "华尔街见闻-快讯",
@@ -1196,6 +1299,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI董事长：IPO时间暂无最新消息",
+          "url": "https://flash.jin10.com/detail/20260717004805940800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
+          "url": "https://flash.jin10.com/detail/20260717022344954800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1207,11 +1349,12 @@
             8,
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 10时00分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 13时16分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -1229,34 +1372,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI董事长：IPO时间暂无最新消息",
-          "url": "https://flash.jin10.com/detail/20260717004805940800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
-          "url": "https://flash.jin10.com/detail/20260717022344954800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1269,8 +1384,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 10时00分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 13时16分]"
         },
         {
           "title": "伯恩斯坦：将2026年黄金价格目标上调至4533美元/盎司，因各国央行正在实现储备多元化，且预计美联储在未来一年内最多只会加息一两次。",
