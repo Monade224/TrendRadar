@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T13:48:36.706571+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-07-24T16:13:03.429034+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -19,20 +19,6 @@
           "time_info": "[01时12分 ~ 06时59分]"
         },
         {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 13时48分]"
-        },
-        {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
           "url": "https://wallstreetcn.com/articles/3777791",
           "source": "华尔街见闻",
@@ -44,8 +30,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时03分 ~ 13时48分]"
+          "appearance_count": 10,
+          "time_info": "[03时03分 ~ 16时13分]"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 16时13分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -55,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 16时13分]"
         },
         {
           "title": "盟友集体反击“强迫劳动”指控！特朗普关税战为何连最高法院也挡不住？",
@@ -65,7 +66,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -104,6 +105,19 @@
           "time_info": "[06时01分 ~ 06时59分]"
         },
         {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 16时13分]"
+        },
+        {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
@@ -115,16 +129,27 @@
           "time_info": "[01时12分 ~ 03时03分]"
         },
         {
-          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
-          "url": "https://www.cls.cn/detail/2435732",
-          "source": "财联社热门",
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[13时48分 ~ 16时13分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时48分 ~ 16时13分]"
         },
         {
           "title": "特朗普：将用伊朗资金赔付船只及货物损失",
@@ -138,6 +163,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "【外交部：愿在人工智能领域落实好中美元首重要共识】就有报道称美国总统特朗普表示美中两国领导人将讨论人工智能相关议题，外交部发言人林剑24日在例行记者会上答问时表示，元首外交对中美关系具有不可替代的战略引领作用。中方愿同美方一道，在人工智能领域落实好两国元首的重要共识。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3139307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "美国总统特朗普：伊朗比四个月前更弱。",
           "url": "https://flash.jin10.com/detail/20260724025416982800",
           "source": "金十数据",
@@ -147,17 +183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
         },
         {
           "title": "在致立法者的信中，特朗普政府敦促国会在交通法案中加入永久夏令时，并优先考虑汽车交通需求而非自行车道建设。",
@@ -180,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
         },
         {
           "title": "美国总统特朗普：伊朗人想要谈判，但他们并没有准备好。",
@@ -235,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "斯里兰卡国际主权债券下跌1美分，巴基斯坦和印尼债券承压。此前特朗普宣布新关税措施。",
+          "url": "https://flash.jin10.com/detail/20260724154142353800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "特朗普耐心耗尽！美伊战争拖入第五个月，油价与选举压力反噬白宫",
@@ -347,6 +372,17 @@
           "time_info": "04时55分"
         },
         {
+          "title": "据报道，泽连斯基将于7月28日在美国会晤特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3139278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
           "url": "https://wallstreetcn.com/livenews/3138972",
           "source": "华尔街见闻-快讯",
@@ -361,7 +397,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -381,11 +417,12 @@
           "url": "https://news.ifeng.com/c/8v0yEqjepG6",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 16时13分]"
         },
         {
           "title": "伊朗袭击约旦和巴林境内美军基地",
@@ -394,9 +431,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "伊朗称对驻科威特美军基地发动新一轮无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3139315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会国家安全委员会主席转述革命卫队海军导弹部队指挥官称，伊朗拥有数倍于应对美国所需的导弹和无人机储备。",
@@ -462,7 +510,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -506,7 +554,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -528,7 +576,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -561,7 +609,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -594,7 +642,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -608,6 +656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "伊朗军方：已对美国军方在科威特的设施发起了另一波无人机攻击。",
+          "url": "https://flash.jin10.com/detail/20260724153331810800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "美威胁发动空前打击，伊朗、胡塞武装：已做好应战准备",
@@ -712,8 +771,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时00分 ~ 13时48分]"
+          "appearance_count": 7,
+          "time_info": "[06时00分 ~ 16时13分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 16时13分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 16时13分]"
         },
         {
           "title": "美股",
@@ -726,29 +808,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 06时59分]"
-        },
-        {
-          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
-          "url": "https://www.cls.cn/detail/2435717",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时48分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时48分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
@@ -923,18 +982,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
+        },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时48分 ~ 16时13分]"
         },
         {
           "title": "微软(MSFT.O)正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
@@ -976,7 +1047,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1084,7 +1155,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价四连涨深圳水贝又挤爆了",
@@ -1119,9 +1190,20 @@
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时48分 ~ 16时13分]"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）上海金午盘价为881.09元/克，较国际金价(881.97元/克)，低0.88元/克",
+          "url": "https://flash.jin10.com/detail/20260724153037980800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "16时13分"
         }
       ]
     },
